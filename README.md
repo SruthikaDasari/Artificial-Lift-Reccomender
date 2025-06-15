@@ -1,1 +1,2 @@
 # Artificial-Lift-Reccomender
+The Artificial Lift Selection Tool is a Python-based application designed to recommend a suitable artificial lift method for an oil well based on key operational parameters. Artificial lift is essential in petroleum production when reservoir pressure is insufficient to lift fluids to the surface. The selection of the appropriate method depends on factors such as reservoir depth, expected flow rate, fluid type, and availability of lift gas.
